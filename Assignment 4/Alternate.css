@@ -1,0 +1,23 @@
+p {
+		font-family: Verdana;
+		font-size: 28px;
+		color: #c254a7;
+}
+h1 {
+		font-family: Helvetica;
+		color: #3cb333;
+		text-align: center;
+		font-size:40px;
+}
+body {
+	font-size:20px;
+	background-color: #6ec0ff;
+} 
+b {
+	color:yellow;
+
+}
+i {
+	font-size:36px;
+	border-color: #65ab4a;
+}
