@@ -8,6 +8,7 @@ h1 {
 	color: #3cb333;
 	text-align: center;
 	font-size:40px;
+	background-color: green;
 }
 body {
 	font-size:20px;
@@ -33,3 +34,6 @@ figure {
 	font-size: 14px;
 	border-color: yellow;
 }
+img {background-image: color: orange;
+}
+
