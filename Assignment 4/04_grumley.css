@@ -1,13 +1,13 @@
 p {
-		font-family: Georgia;
-		font-size: 20px;
-		color: #572fa7;
+	font-family: Georgia;
+	font-size: 20px;
+	color: #572fa7;
 }
 h1 {
-		font-family: Arial;
-		color: #3cb333;
-		text-align: center;
-		font-size:20px;
+	font-family: Arial;
+	color: #3cb333;
+	text-align: center;
+	font-size:20px;
 }
 body {
 	font-size:12px;
@@ -20,4 +20,12 @@ b {
 i {
 	font-size:18px;
 	border-color: #37c3c1;
+}
+h2 {
+	color:blue;
+}
+iframe {border: thin;
+}
+figcaption {
+	background-color: yellow:thin;
 }
