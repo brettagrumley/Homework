@@ -25,7 +25,7 @@ i {
 h2 {
 	font-family: helvetica;
 	color: red;
-	font-size: 30px
+	font-size: 30px;
 }
 figcaption {
 	border-color: blue;
@@ -34,7 +34,8 @@ figure {
 	font-size: 14px;
 	border-color: yellow;
 }
-img {background-image: color: orange;
+img {
+	background-image: color: orange;
 }
 
 
