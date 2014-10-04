@@ -1,13 +1,13 @@
 p {
-		font-family: Verdana;
-		font-size: 28px;
-		color: #c254a7;
+	font-family: Verdana;
+	font-size: 28px;
+	color: #c254a7;
 }
 h1 {
-		font-family: Helvetica;
-		color: #3cb333;
-		text-align: center;
-		font-size:40px;
+	font-family: Helvetica;
+	color: #3cb333;
+	text-align: center;
+	font-size:40px;
 }
 body {
 	font-size:20px;
@@ -20,4 +20,16 @@ b {
 i {
 	font-size:36px;
 	border-color: #65ab4a;
+}
+h2 {
+	font-family: helvetica;
+	color: red;
+	font-size: 30px
+}
+figcaption {
+	border-color: blue;
+}
+figure {
+	font-size: 14px;
+	border-color: yellow;
 }
