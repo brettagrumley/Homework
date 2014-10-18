@@ -14,10 +14,10 @@ html {
 	padding: 0;
 	}
 body { 
-	font: 75% impact, sans-serif;
-	font-size:20px;
+	font: 75% Helvetica, sans-serif;
+	font-size:15px;
 	line-height: 1.0;
-	color: #494948; 
+	color: #ffffff; 
 	background: #fff url(Swimmer.jpg) no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
@@ -28,7 +28,7 @@ p {
 	}
 h3 { 
 	font:Impact, sans-serif;
-	font-size:50px;
+	font-size:30px;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #caf2e9;
@@ -178,10 +178,10 @@ footer a:link, footer a:visited {
 	list-style-type: none;
 	}
 .sidebar li a:link {
-	color: #988F5E;
+	color: #f4f069;
 	}
 .sidebar li a:visited {
-	color: #B3AE94;
+	color: #6754a3;
 	}
 
 
