@@ -451,8 +451,8 @@ header h2 {
   position: relative;
 }
 .participation:after {
-  background: url(../images/participation.png) 40px center no-repeat;
-  backgroun: url (swimmer.jpg);
+  background: url(Homework/Assignment 6/Swimmer.jpg) 40px center no-repeat;
+  background: url (Swimmer.jpg);
   clear: right;
   content: '';
   display: block;
@@ -493,8 +493,8 @@ header h2 {
   width: 220px;
 }
 .benefits:after {
-  background: url(../Homework/Assignment 6/VeniceSurf.jpg) 150px center no-repeat;
-  background: url (VeniceSurf.jpg);
+  background: url(Homework/Assignment 6/VeniceSurf.jpg) 150px center no-repeat;
+  background: url(VeniceSurf.jpg);
   display: block;
   float: left;
   height: 312px;
