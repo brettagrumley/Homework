@@ -21,6 +21,7 @@ body {
 	background: #fff url(Swimmer.jpg) no-repeat bottom right; 
 	margin: 0; 
 	padding: 0;
+	position: absolute;
 	}
 p { 
 	margin-top: 0; 
@@ -50,6 +51,11 @@ abbr {
 	border-bottom: none;
 	}
 
+/* ASK ABOUT THIS!
+background {
+	opacity: 0.4;
+}
+*/
 
 /* specific divs */
 .page-wrapper { 
@@ -96,25 +102,28 @@ header {
 .summary {
 	clear: both; 
 	margin: 20px 20px 20px 10px; 
-	width: 160px; 
+	width: 300px; 
 	float: left;
 	}
 .summary p {
 	font: italic 1.0em/1.0 georgia; 
-	text-align: center;
+	text-align: left;
 	}
 
 .preamble {
 	clear: right; 
 	padding: 0px 10px 0 10px;
 	}
+
 .supporting {	
 	padding-left: 10px; 
 	margin-bottom: 40px;
+	width: 500px;
 	}
 
 footer { 
 	text-align: center; 
+	display: block;
 	}
 footer a:link, footer a:visited { 
 	margin-right: 20px; 
@@ -184,7 +193,6 @@ footer a:link, footer a:visited {
 	color: #6754a3;
 	}
 
-
 .extra1 {
 	background: transparent url(cr2.gif) top left no-repeat; 
 	position: absolute; 
@@ -196,7 +204,6 @@ footer a:link, footer a:visited {
 }
 .benefits:after {
   background: url(Homework/Assignment 6/VeniceSurf.jpg) 150px center no-repeat;
-  background: url(VeniceSurf.jpg);
   display: block;
   float: left;
   height: 312px;
@@ -207,3 +214,13 @@ footer a:link, footer a:visited {
   position: relative;
   width: 100%;
 }
+
+
+/* Why don't these versions work?
+.background: url {
+	opacity: 0.5;
+}
+.body: background {
+	opacity: 0.5;
+} 
+*/
